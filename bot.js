@@ -15,4 +15,4 @@ client.user.setActivity('', { type: 'PLAYING' })
  
  
  
-client.login(process.env.BOT_TOKEN);
+client.login('NTQ5Njc3MjU2Njg0MDc3MDU2.D3lcwA.zoL7eVAiMU7N4zqgA4zfY8dNncc');
